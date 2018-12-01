@@ -1,1 +1,1 @@
-Projet de la semaine 1 de formation Arinfo, thème HTML, CSS, jquery et bootstrap
+Projet de page web pour le développement d'un reseau de MAM en vendée.
