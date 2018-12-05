@@ -21,12 +21,19 @@
     text-shadow: lightgray 4px 4px;
 }
 
+.about {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .img-about {
     width: 80%;
 }
 
 .img-presentation {
-    height : 50%;
+    width : 100%;
+    
 }
 
 .img-footer {
